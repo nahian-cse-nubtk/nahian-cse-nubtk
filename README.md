@@ -1,4 +1,4 @@
-<img src="./banner/nahian-banner.png" alt="Hello world">
+<img src="./banner/banner.png" alt="Hello world">
 <br/>
 
 ## Hi 👋, I'm Shaikh Al Nahian
