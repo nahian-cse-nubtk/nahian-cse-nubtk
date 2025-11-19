@@ -12,8 +12,6 @@ Hi there! I'm Shaikh Al Nahian. I'm a passionate MERN Stack Developer with a str
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahian-cse-nubtk&label=Profile views&color=0e75b6&style=flat" alt="nahian-cse-nubtk" /> </p>
-
 - 🔭 I'm currently working on **MERN Stack Project**
 
 - 🌱 I'm currently learning **Full Stack developing method**
@@ -43,3 +41,5 @@ Hi there! I'm Shaikh Al Nahian. I'm a passionate MERN Stack Developer with a str
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahian-cse-nubtk&show_icons=true&locale=en" alt="nahian-cse-nubtk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahian-cse-nubtk&" alt="nahian-cse-nubtk" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahian-cse-nubtk&label=Profile views&color=0e75b6&style=flat" alt="nahian-cse-nubtk" /> </p>
