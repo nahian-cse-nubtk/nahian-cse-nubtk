@@ -1,10 +1,13 @@
-## Hi there 👋
-
-<!--
 ## Hi 👋, I'm Shaikh Al Nahian
 
 
-### A seasoned Javascript developer
+### A MERN Stack developer
+
+
+## About Me
+Hi there! I'm Shaikh Al Nahian. I'm a passionate MERN Stack Developer with a strong focus on Full Stack Development. I love sharing my knowledge and experience. I like to take different types of challenges. If you want to learn more about what I do, you can follow me. Outside of coding, I enjoy documentation reading, seeing drama, listening songs.
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahian-cse-nubtk&label=Profile views&color=0e75b6&style=flat" alt="nahian-cse-nubtk" /> </p>
 
