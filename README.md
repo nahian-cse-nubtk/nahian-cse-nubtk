@@ -1,3 +1,6 @@
+<img src="./banner/nahian-banner.png" alt="Hello world">
+<br/>
+
 ## Hi 👋, I'm Shaikh Al Nahian
 
 
@@ -40,4 +43,3 @@ Hi there! I'm Shaikh Al Nahian. I'm a passionate MERN Stack Developer with a str
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahian-cse-nubtk&show_icons=true&locale=en" alt="nahian-cse-nubtk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahian-cse-nubtk&" alt="nahian-cse-nubtk" /></p>
-
